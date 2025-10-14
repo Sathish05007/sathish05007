@@ -31,9 +31,7 @@
 
 
 ### 🚀 Projects
-- 🌐 [*E-Commerce Website*https://sathish05007.github.io/HTML-CSS-10k/css-major-project/index.html) — Responsive website built with HTML, CSS & JS  
-- 💪 [**Weather App**](https://github.com/Sathish05007/fitness-tracker) — Built using JS,jQuery 
-
+<p><a href="https://sathish05007.github.io/HTML-CSS-10k/css-major-project/index.html">E-Commerce Website</a></p>
 
 ### 💬 Let’s Connect
 📧 Email: *ejjagirisathish6@gmail.com*  
