@@ -1,47 +1,58 @@
-<h1 align="center">Hi 👋, I'm Sathish</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ejjagiri Sathish</h1>
+<h3 align="center">A passionate Front-End Developer from India 🇮🇳</h3>
 
-<!-- <p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/689/917/HD-wallpaper-ms-dhoni-chennai-super-kings-cricket-csk-definitely-not-india-sports.jpgs" width="150" alt="Sathish Profile Picture"/>
-</p> -->
-
-- 🌱 I’m currently learning **JavaScript, MongoDB, and React**  
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap, Front-End & MERN Stack**  
-- 📫 Reach me at **ejjagiriasathish6@gmail.com @gmail.com**  
-- ⚡ Fun fact: I love solving problems, building creative websites, and exploring new tech!  
+<p align="center">
+  <img src="https://your-image-link-here.jpg" width="150" alt="Sathish Profile Picture"/>
+</p>
 
 ---
 
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your_linkedin_url)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](your_youtube_url)  
-[![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram)](your_instagram_url)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YourUsername)  
+### 🌱 About Me
+- 🔭 I’m currently learning *JavaScript, React, and MongoDB*  
+- 💻 Passionate about *Front-End Development & MERN Stack*  
+- 💬 Ask me about *HTML, CSS, JS, Bootstrap, and Responsive Web Design*  
+- ⚡ Fun fact: I love solving problems, exploring new tech, and building creative websites!  
+- 📫 Reach me at *youremail@gmail.com*
+
+---
+
+### 🔗 Connect with me  
+<p align="left">
+<a href="your_linkedin_url" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="your_youtube_url" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
+<a href="your_instagram_url" target="_blank"><img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+<a href="https://github.com/YourUsername" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+</p>
 
 ---
 
 ### 🛠 Languages & Tools
-HTML | CSS | JavaScript | Bootstrap | React | Node.js | MongoDB | Git | VSCode  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mongodb,git,vscode" alt="skills"/>
+</p>
 
 ---
 
-### 📈 GitHub Stats
-![Sathish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
-### 🔭 My Projects
-- [**e-Commerces website**]( https://sathish05007.github.io/HTML-CSS-10k/css-major-project/index.html) – Front-End only, responsive design with HTML, CSS & JS  
-
+### 🚀 Projects
+- 🌐 [*Hospital Website*](https://github.com/YourUsername/hospital-website) — Responsive website built with HTML, CSS & JS  
+- 💪 [*Fitness Tracker*](https://github.com/YourUsername/fitness-tracker) — Built using JS, Chart.js, and MongoDB  
+- 🤖 [*AI Recruitment Platform*](https://github.com/YourUsername/ai-recruitment-platform) — Uses Python, ML, and NLP for smart candidate-job matching  
 
 ---
 
-### 📫 How to reach me
-- Email: ejjagiriasathish6@gmail.com @gmail.com  
-- LinkedIn: [Your LinkedIn](your_linkedin_url)  
+### 💬 Let’s Connect
+📧 Email: *youremail@gmail.com*  
+💼 LinkedIn: [Your LinkedIn](your_linkedin_url)
 
 ---
 
 ### ⚡ Fun Fact
-I love learning new tech, solving coding problems, and building creative websites that make an impact!  
+I enjoy creating real-world web projects, learning cutting-edge technologies, and helping others grow in tech 🚀
