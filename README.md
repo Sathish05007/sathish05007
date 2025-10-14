@@ -31,7 +31,7 @@
 
 
 ### 🚀 Projects
-- 🌐 [**E-Commerce Website**https://sathish05007.github.io/HTML-CSS-10k/css-major-project/index.html) — Responsive website built with HTML, CSS & JS  
+- 🌐 [*E-Commerce Website*https://sathish05007.github.io/HTML-CSS-10k/css-major-project/index.html) — Responsive website built with HTML, CSS & JS  
 - 💪 [**Weather App**](https://github.com/Sathish05007/fitness-tracker) — Built using JS,jQuery 
 
 
