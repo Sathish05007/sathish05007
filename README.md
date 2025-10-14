@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End Developer from India</h3>
 
 <p align="center">
-  <img src="https://your-image-link-here.jpg" width="150" alt="Sathish Profile Picture"/>
+  <img src="C:\Users\ejjag\OneDrive\Desktop" width="150" alt="Sathish Profile Picture"/>
 </p>
 
 - 🌱 I’m currently learning **JavaScript, MongoDB, and React**  
