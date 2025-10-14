@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, MongoDB, and React**  
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, Front-End & MERN Stack**  
-- 📫 Reach me at **yourmail@gmail.com**  
+- 📫 Reach me at **ejjagiriasathish6@gmail.com @gmail.com**  
 - ⚡ Fun fact: I love solving problems, building creative websites, and exploring new tech!  
 
 ---
