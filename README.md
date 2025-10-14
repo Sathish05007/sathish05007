@@ -32,9 +32,8 @@ HTML | CSS | JavaScript | Bootstrap | React | Node.js | MongoDB | Git | VSCode
 ---
 
 ### 🔭 My Projects
-- [**Hospital Website**](https://github.com/YourUsername/hospital-website) – Front-End only, responsive design with HTML, CSS & JS  
-- [**Fitness Tracker**](https://github.com/YourUsername/fitness-tracker) – JS, Chart.js & MongoDB integration  
-- [**AI Recruitment Platform**](https://github.com/YourUsername/ai-recruitment-platform) – Python, NLP & matching system  
+- [**e-Commerces website**]( https://sathish05007.github.io/HTML-CSS-10k/css-major-project/index.html) – Front-End only, responsive design with HTML, CSS & JS  
+
 
 ---
 
