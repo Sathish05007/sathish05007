@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sathish</h1>
 <h3 align="center">A passionate Front-End Developer from India</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://w0.peakpx.com/wallpaper/689/917/HD-wallpaper-ms-dhoni-chennai-super-kings-cricket-csk-definitely-not-india-sports.jpgs" width="150" alt="Sathish Profile Picture"/>
-</p>
+</p> -->
 
 - 🌱 I’m currently learning **JavaScript, MongoDB, and React**  
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, Front-End & MERN Stack**  
@@ -39,7 +39,7 @@ HTML | CSS | JavaScript | Bootstrap | React | Node.js | MongoDB | Git | VSCode
 ---
 
 ### 📫 How to reach me
-- Email: yourmail@gmail.com  
+- Email: ejjagiriasathish6@gmail.com @gmail.com  
 - LinkedIn: [Your LinkedIn](your_linkedin_url)  
 
 ---
